@@ -1,0 +1,9 @@
+streamlit
+pandas
+streamlit-aggrid
+SQLAlchemy
+PyMySQL
+plotly-express
+mysql.connector
+seaborn
+matplotlib
